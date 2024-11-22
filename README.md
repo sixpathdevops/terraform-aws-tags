@@ -1,1 +1,3 @@
-# tf-aws-tags
+# SixPath Terraform Module - Tags
+Terraform Module for VPC
+
